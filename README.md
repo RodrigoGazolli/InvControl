@@ -12,9 +12,21 @@ A aplicação foi construída utilizando as tecnologias:
 - **MySQL** (para o banco de dados).
 - **HTML** e **CSS** (para o front-end).
 
-## Funcionalidades
+## Funcionalidades Principais
 
 ### 1. Cadastro de Produtos
+Permite o cadastro do usuário com informações detalhadas, como nome completo, telefone, RG, CPF, UF, email e senha.
+
+- **Campos principais**:
+  - Nome Completo
+  - Telefone
+  - RG
+  - CPF 
+  - UF
+  - email 
+  - senha 
+
+### 2. Cadastro de Produtos
 Permite adicionar novos produtos ao estoque com informações detalhadas, como nome, descrição, preço, quantidade, categoria e fornecedor.
 
 - **Campos principais**:
@@ -25,11 +37,11 @@ Permite adicionar novos produtos ao estoque com informações detalhadas, como n
   - Categoria 
   - Fornecedor 
 
-### 2. Controle de Estoque
+### 3. Visão do Estoque
 Exibe tabelas com os produtos cadastrados no estoque.
 
-### 3. Interface de Usuário (Front-end)
-Uma interface simples e intuitiva, com funcionalidades para cadastro, alteração, exclusão e consulta de produtos.
+### 4. Interface de Usuário (Front-end)
+Uma interface simples, intuitiva e responsiva.
 
 ## Estrutura do Banco de Dados (MySQL)
 
