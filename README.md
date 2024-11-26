@@ -10,7 +10,7 @@ A aplicação foi construída utilizando as tecnologias:
 
 - **Java** (para o back-end).
 - **MySQL** (para o banco de dados).
-- **HTML** e **CSS** (para o front-end).
+- **BootStrap** (para o front-end).
 
 ## Funcionalidades Principais
 
